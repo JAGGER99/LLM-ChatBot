@@ -1,0 +1,30 @@
+{
+  "name": "langgraph-recruiter-chatbot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "check": "tsc --noEmit",
+    "ingest": "tsx src/scripts/ingest.ts"
+  },
+  "dependencies": {
+    "@langchain/core": "^0.3.55",
+    "@langchain/langgraph": "^0.2.60",
+    "@langchain/openai": "^0.5.18",
+    "@langchain/textsplitters": "^0.1.0",
+    "@supabase/supabase-js": "^2.49.8",
+    "next": "^15.3.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}
+

@@ -1,0 +1,46 @@
+Synthetic care management notes for demo retrieval only.
+
+Week 1 interdisciplinary roundup:
+CL-040 (West, hypertension + behavioral health): Care manager documented ongoing medication fatigue and skipped evening doses several times per week. Average blood pressure remained elevated at 148/78, daily steps stayed low, and one follow-up visit was missed. Team recommendation was to continue remote patient monitoring outreach and complete a medication reconciliation call.
+
+CL-025 (Northeast, hypertension): Coaching notes show improving trends across blood pressure, glucose, and activity, but reliability remains an issue. Client missed a follow-up because transportation fell through at the last minute. Transportation support was added because the team believed access was the main barrier rather than motivation.
+
+CL-033 (Northeast, hypertension): Client is physically active and blood pressure is improving, but adherence remains low and two visits were missed. Care navigator documented that appointment timing conflicts with shift work. Team felt the risk is operational rather than clinical instability.
+
+CL-006 (Midwest, COPD + hypertension): This client is notable because adherence is strong, but blood pressure is still worsening. Nurse note says the client is using home readings consistently and appears engaged, suggesting that medication effectiveness or sodium intake may be the bigger issue.
+
+Week 2 case conference:
+CL-017 (Northeast, hypertension): Diabetes risk remains the main concern. Client had two ED visits in the last year, A1C remains above goal, and the team suspects fragmented follow-up after an insurance change. Recommendation was to keep transportation support available and simplify the follow-up schedule.
+
+CL-018 (Midwest, diabetes): Client has worsening glucose control with one ED visit and low adherence. Dietitian reported inconsistent meal logging and poor device routine during weekends. Team wants tighter coaching around daily habits instead of adding more educational content.
+
+CL-019 (South, hypertension + diabetes): Chart review suggests a persistently elevated A1C despite decent appointment reliability. Pharmacist note says refill timing may be contributing to uneven medication access even though the client sounds motivated on calls.
+
+CL-020 (West, hypertension + CHF): Risk score is high even though current biometrics are not the worst in the cohort. Nurse note explains that CHF history and a missed follow-up keep this client on the watch list. This is a useful example of a client whose risk is driven by context, not only current vitals.
+
+Week 3 outreach notes:
+CL-053 (Northeast, diabetes + obesity): Team documented weight gain pressure and plateaued glucose improvement. Adherence is high, so the current hypothesis is that nutrition support and routine structure matter more than reminder volume. Sleep hygiene coaching was recommended because late-night eating was mentioned in the call summary.
+
+CL-060 (West, hypertension + CHF): One of the strongest improvement stories in the corpus. Client is highly engaged, steps are up, blood pressure and glucose trends are both improving, and home monitoring is consistent. Only remaining issue is one missed follow-up that appears administrative rather than clinical.
+
+CL-067 (South, hypertension + diabetes): Another positive case. Care manager noted better walking consistency, no active flags, and solid adherence. This client is useful when asking what an improving high-risk profile looks like.
+
+CL-072 (West, hypertension + behavioral health): Team flagged worsening blood pressure, low adherence, and one ED visit. Call note says stress and inconsistent routines are likely driving both biometric drift and lower engagement.
+
+Week 4 utilization review:
+CL-085 (Northeast, diabetes + obesity): Metrics are improving overall, but one missed visit and two ED encounters keep the client from being treated as low risk. Team note says this is a reminder that improvement in day-to-day metrics does not erase utilization history immediately.
+
+CL-087 (South, CKD + diabetes): PCP follow-up was prioritized because adherence is low and kidney-disease context increases downside risk. Care team noted that the client sounds receptive but tends to delay action until symptoms feel urgent.
+
+CL-094 (Midwest, COPD + hypertension): This is a good retrieval example because the risk tier is only stable, yet A1C is still above goal and adherence is weak. Team note says the client understands the care plan but has trouble staying consistent after work travel.
+
+CL-095 (South, CKD + diabetes): Worsening glucose trend plus a missed follow-up suggests the client may be slipping out of routine. Navigator note recommends a faster PCP touchpoint before metrics deteriorate further.
+
+CL-099 (South, hypertension + diabetes): Clinically this client has one of the more interesting mixed profiles in the corpus. Activity and engagement are relatively strong, but A1C is still very high and two appointments were missed. Team note frames this as a “looks engaged, still unstable” case that should trigger pharmacist review rather than generic motivational messaging.
+
+Cohort-level themes mentioned repeatedly in notes:
+- transportation barriers tend to show up alongside missed follow-up rather than low motivation
+- high adherence does not always prevent elevated blood pressure
+- behavioral health and sleep patterns often explain why otherwise reasonable care plans stall
+- recent ED utilization changes prioritization even when current daily metrics start to improve
+
