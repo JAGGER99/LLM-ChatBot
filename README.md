@@ -20,15 +20,15 @@ This project lets you point a local folder of text documents at a recruiter-frie
 ## Architecture
 
 ```mermaid
-flowchart LR
-    A["Local corpus files"] --> B["LangChain text splitter"]
-    B --> C["OpenAI embeddings"]
-    C --> D["Supabase documents table"]
-    E["Browser chat UI"] --> F["LangGraph state graph"]
-    F --> G["Query rewrite node"]
-    G --> H["Supabase vector search"]
-    H --> I["Answer generation node"]
-    I --> E
+graph TD
+    corpus[Local corpus files] --> splitter[LangChain text splitter]
+    splitter --> embeddings[OpenAI embeddings]
+    embeddings --> store[Supabase documents table]
+    ui[Browser chat UI] --> workflow[LangGraph state graph]
+    workflow --> rewrite[Query rewrite node]
+    rewrite --> search[Supabase vector search]
+    search --> answer[Answer generation node]
+    answer --> ui
 ```
 
 ## Stack
